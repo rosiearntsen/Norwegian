@@ -1,4 +1,4 @@
-# Norwegian-Flashcard-via-Python
+# Norwegian
 
 This is a project to learn Norwegian (A2) through flashcards in Python. <br>
 All the conversations in the book `På Vei` (2018) are added here to learn. <br>
